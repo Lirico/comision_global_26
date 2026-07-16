@@ -2,7 +2,7 @@
   <img src="https://www.globalacademyoficial.com/brand/logoglobalacademy.svg" alt="Global" width="600"/>
 </p>
 
-# Bienvenidos al repositorio de la comisión 24
+# Bienvenidos al repositorio de la comisión 26
 
 ## Instructivo para descargar el repositorio
 
