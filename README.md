@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://globalacademyoficial.com/_next/static/media/logo_ga.b3948337.svg" alt="Global" />
+  <img src="https://www.globalacademyoficial.com/brand/logoglobalacademy.svg" alt="Global" />
 </p>
-
 # Bienvenidos al repositorio de la comisión 24
 
 ## Instructivo para descargar el repositorio
